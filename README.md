@@ -1,1 +1,1 @@
-Play the game Rock Paper Scissors.
+# Play the game Rock Paper Scissors
